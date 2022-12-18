@@ -6,6 +6,10 @@
 
 https://github.com/ccnmtl/astro-simulations.git
 
+https://theskylive.com/3dsolarsystem?objs=5d|c2022e3|ztf|c2017k2&date=2022-06-21&h=20&m=04&
+
+https://javalab.org/en/earth_movements_en/
+
 #### 书籍
 
 讱庵偶笔

@@ -2,6 +2,10 @@
 
 童言智语
 
+#### 教学工具模拟器
+
+https://github.com/ccnmtl/astro-simulations.git
+
 #### 书籍
 
 讱庵偶笔

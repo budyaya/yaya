@@ -10,6 +10,8 @@ https://theskylive.com/3dsolarsystem?objs=5d|c2022e3|ztf|c2017k2&date=2022-06-21
 
 https://javalab.org/en/earth_movements_en/
 
+https://github.com/dreamsxin/home
+
 #### 书籍
 
 * 平几纲目
